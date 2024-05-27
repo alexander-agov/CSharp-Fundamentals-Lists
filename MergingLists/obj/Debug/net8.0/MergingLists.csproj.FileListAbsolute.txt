@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\bin\Debug\net8.0\MergingLists.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\bin\Debug\net8.0\MergingLists.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\bin\Debug\net8.0\MergingLists.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\bin\Debug\net8.0\MergingLists.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\bin\Debug\net8.0\MergingLists.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\refint\MergingLists.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\MergingLists.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\MergingLists\obj\Debug\net8.0\ref\MergingLists.dll
