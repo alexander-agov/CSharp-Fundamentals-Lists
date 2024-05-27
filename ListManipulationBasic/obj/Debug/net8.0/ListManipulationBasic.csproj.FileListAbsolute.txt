@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\bin\Debug\net8.0\ListManipulationBasic.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\bin\Debug\net8.0\ListManipulationBasic.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\bin\Debug\net8.0\ListManipulationBasic.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\bin\Debug\net8.0\ListManipulationBasic.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\bin\Debug\net8.0\ListManipulationBasic.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\refint\ListManipulationBasic.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ListManipulationBasic.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\ListManipulationBasic\obj\Debug\net8.0\ref\ListManipulationBasic.dll
