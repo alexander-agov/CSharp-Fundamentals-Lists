@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\bin\Debug\net8.0\TakeSkipRope.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\bin\Debug\net8.0\TakeSkipRope.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\bin\Debug\net8.0\TakeSkipRope.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\bin\Debug\net8.0\TakeSkipRope.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\bin\Debug\net8.0\TakeSkipRope.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\refint\TakeSkipRope.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\TakeSkipRope.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\TakeSkipRope\obj\Debug\net8.0\ref\TakeSkipRope.dll
