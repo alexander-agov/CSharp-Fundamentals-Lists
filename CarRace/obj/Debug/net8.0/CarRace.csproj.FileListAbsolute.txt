@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\bin\Debug\net8.0\CarRace.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\bin\Debug\net8.0\CarRace.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\bin\Debug\net8.0\CarRace.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\bin\Debug\net8.0\CarRace.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\bin\Debug\net8.0\CarRace.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\refint\CarRace.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\CarRace.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\CarRace\obj\Debug\net8.0\ref\CarRace.dll
