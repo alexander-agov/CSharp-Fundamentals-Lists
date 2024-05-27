@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\bin\Debug\net8.0\Messaging.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\bin\Debug\net8.0\Messaging.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\bin\Debug\net8.0\Messaging.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\bin\Debug\net8.0\Messaging.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\bin\Debug\net8.0\Messaging.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\refint\Messaging.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\Messaging.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\Messaging\obj\Debug\net8.0\ref\Messaging.dll
