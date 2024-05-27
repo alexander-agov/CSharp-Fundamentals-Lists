@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\bin\Debug\net8.0\AnonymousThreat.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\refint\AnonymousThreat.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\AnonymousThreat.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\AnonymousThreat\obj\Debug\net8.0\ref\AnonymousThreat.dll
