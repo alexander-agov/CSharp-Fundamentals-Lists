@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\bin\Debug\net8.0\GuassTrick.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\bin\Debug\net8.0\GuassTrick.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\bin\Debug\net8.0\GuassTrick.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\bin\Debug\net8.0\GuassTrick.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\bin\Debug\net8.0\GuassTrick.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\refint\GuassTrick.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\GuassTrick.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\Lists\Lists\GuassTrick\obj\Debug\net8.0\ref\GuassTrick.dll
